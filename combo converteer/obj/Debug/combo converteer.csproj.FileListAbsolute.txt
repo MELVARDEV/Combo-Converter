@@ -1,0 +1,7 @@
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\bin\Debug\combo converteer.exe.config
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\bin\Debug\combo converteer.exe
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\bin\Debug\combo converteer.pdb
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\obj\Debug\combo converteer.csprojAssemblyReference.cache
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\obj\Debug\combo converteer.csproj.CoreCompileInputs.cache
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\obj\Debug\combo converteer.exe
+C:\Users\maxfp\source\repos\combo converteer\combo converteer\obj\Debug\combo converteer.pdb
