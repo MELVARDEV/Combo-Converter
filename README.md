@@ -1,3 +1,3 @@
-# Combo-Converter
+# combo-converter
 
-This program converts .txt combolist from pass:email format to email:pass
+Converts txt combo-list from pass:email format to email:pass
